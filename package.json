@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Beljoria/OrangePeelNFT/issues"
   },
-  "homepage": "https://github.com/Beljoria/OrangePeelNFT#readme"
+  "homepage": "https://github.com/Beljoria/OrangePeelNFT#readme",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.4"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
 }
